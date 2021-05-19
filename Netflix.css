@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url(Heres\ How\ Download\ and\ Watch\ Netflix\ Offline.jpg);
+    background-repeat: no-repeat;
+}
+.logo_1 {
+    display: grid;  
+    height: 60px;
+    margin: 0;
+    width: auto;
+    bottom: 100px;
+    top: 20px;
+    left: 50px;
+    position: absolute;
+}
+.sign {
+    text-decoration: none;
+    background-color: red;
+    width: 90px;
+    height: 30px;
+    color: white;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    border-radius: 5px;
+    left: 1350px;
+    top: 28px;
+}
+.si {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sign:hover {
+    cursor: pointer;
+}
+.lang {
+    text-decoration: none;
+    background-color: transparent;
+    width: 90px;
+    height: 30px;
+    color: white;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    left: 1220px;
+    top: 25px;
+    border: 2px solid white;
+    cursor: default;
+}
+.type {
+    position: absolute;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    font-size: 80px;
+    color: white;
+    top: 250px;
+    left: 390px;
+    font-weight: 550;
+    font-family: sans-serif;
+    text-align: center;
+}
+.watch {
+    position: absolute;
+    display: grid;
+    font-size: 25px;
+    color: white;
+    top: 440px;
+    left: 600px;
+    font-family: sans-serif;
+}
+.wtc {
+    position: absolute;
+    display: grid;
+    font-size: 20px;
+    color: white;
+    top: 490px;
+    left: 470px;
+    font-family: sans-serif;
+}
+.search {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    top: 530px;
+    left: 390px;
+}
+.search input {
+    width: 36vw;
+    height: 60px;
+    padding: 0 12px;
+}
+button { 
+    width: 16vw;
+    height: 68px;
+    background-color: red;
+    margin: 0px;
+}
+.btn {
+    font-family: 'lato', sans-serif;
+    color: white;
+    font-size: 33px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: rgb(236, 16, 16);
+}
